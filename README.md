@@ -20,9 +20,13 @@
 ### 投票用NFT
 
 ミントページを作っていないので、直コンしてください。  
+
 ネットワーク: Rinkeby testnet  
+
 Faucet: <https://rinkebyfaucet.com/>  
+
 コントラクト: [0xd04A00132154527B87DaaF2154e4565C17Cb7914](https://rinkeby.etherscan.io/address/0xd04A00132154527B87DaaF2154e4565C17Cb7914)  
+
 ![直コン解説](howtomint.png)  
 
 
