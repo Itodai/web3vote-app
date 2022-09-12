@@ -17,9 +17,11 @@
 
 [デモページ](https://fluffy-pegasus-f72539.netlify.app/)  
 
-### 投票用NFT
+### ~~投票用NFT~~
 
-ミントページを作っていないので、直コンしてください。  
+~~ミントページを作っていないので、直コンしてください。~~  
+
+現在NounsDAO JAPAN pfpが投票権になっています（9/11）  
 
 ネットワーク: Rinkeby testnet  
 
